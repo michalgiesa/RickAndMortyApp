@@ -1,9 +1,3 @@
-//
-//  RickAndMortyAppTests.swift
-//  RickAndMortyAppTests
-//
-//  Created by Michał Giesa on 26/08/2025.
-//
 
 import Testing
 @testable import RickAndMortyApp
