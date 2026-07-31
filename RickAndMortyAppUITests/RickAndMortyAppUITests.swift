@@ -1,9 +1,3 @@
-//
-//  RickAndMortyAppUITests.swift
-//  RickAndMortyAppUITests
-//
-//  Created by Michał Giesa on 26/08/2025.
-//
 
 import XCTest
 
