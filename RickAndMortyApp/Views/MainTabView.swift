@@ -1,10 +1,3 @@
-//
-//  MainTabView.swift
-//  RickAndMortyApp
-//
-//  Created by Michał Giesa on 26/08/2025.
-//
-
 import SwiftUI
 
 struct MainTabView: View {
