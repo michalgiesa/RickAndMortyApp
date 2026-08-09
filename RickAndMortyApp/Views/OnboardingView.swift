@@ -1,3 +1,4 @@
+#tak
 import SwiftUI
 
 struct OnboardingView: View {
