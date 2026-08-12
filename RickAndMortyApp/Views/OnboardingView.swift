@@ -1,10 +1,4 @@
-//
-//  OnboardingView.swift
-//  RickAndMortyApp
-//
-//  Created by Michał Giesa on 26/08/2025.
-//
-
+#tak
 import SwiftUI
 
 struct OnboardingView: View {
