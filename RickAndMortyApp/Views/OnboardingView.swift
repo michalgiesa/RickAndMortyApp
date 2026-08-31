@@ -1,4 +1,3 @@
-//qwerty
 import SwiftUI
 
 struct OnboardingView: View {
